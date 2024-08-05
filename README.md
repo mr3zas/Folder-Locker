@@ -2,7 +2,7 @@
 
 
 # Introduction: 
-Portable Windows Folder Locker is the simple safe box for your important files
+Portable Windows Folder Locker is a simple safe box for your important files, there is no need to install any third-party software.
 
 
 
